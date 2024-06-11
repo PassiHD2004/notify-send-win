@@ -24,4 +24,7 @@ jobs:
       run: cargo clippy
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v4.3.3
+      with:
+        name: notify-send-win
+        path: target/release/notify-send-win.exe
             
