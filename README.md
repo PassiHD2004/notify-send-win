@@ -2,11 +2,11 @@
 ## A windows equivalent of notify-send
 
 ### How to use:
-- `notify-send.exe`
-- run `notify-send.exe --help` for more information
+- `notify-send-win.exe`
+- run `notify-send-win.exe --help` for more information
 
 ```
-Usage: notify-send.exe [OPTIONS]
+Usage: notify-send-win.exe [OPTIONS]
 
 Options:
   -a, --app <APP>                  "App Name" for the Toast [default: notify-send-win]
