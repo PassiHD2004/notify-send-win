@@ -7,7 +7,7 @@ authors = ["Blexyel (formerly known as PassiHD2004"]
 homepage = "https://github.com/PassiHD2004/notify-send-win"
 repository = "https://github.com/PassiHD2004/notify-send-win"
 readme = "README.md"
-license-file = "LICENSE"
+license = "GPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
