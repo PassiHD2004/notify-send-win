@@ -1,9 +1,13 @@
 # notify-send-win
-## A windows equivalent of notify-send
+## A notify-send replacement for Windows
+
+### How to install:
+- `cargo install notify-send-win`
+
 
 ### How to use:
-- `notify-send-win.exe`
-- run `notify-send-win.exe --help` for more information
+- `notify-send-win`
+- run `notify-send-win --help` for more information
 
 ```
 Usage: notify-send-win.exe [OPTIONS]
