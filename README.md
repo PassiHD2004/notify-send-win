@@ -1,6 +1,8 @@
 # notify-send-win
 ## A notify-send replacement for Windows
 
+![crates.io](https://img.shields.io/crates/v/notify-send-win.svg)
+
 ### How to install:
 - `cargo install notify-send-win`
 
