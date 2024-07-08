@@ -3,6 +3,8 @@
 
 ![crates.io](https://img.shields.io/crates/v/notify-send-win.svg)
 
+[crates.io](https://crates.io/crates/notify-send-win)
+
 ### How to install:
 - `cargo install notify-send-win`
 
