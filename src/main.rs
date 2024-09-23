@@ -36,7 +36,7 @@ fn main() {
 
     WinToastNotify::new()
         .set_app_id(&args.app)
-        .set_notif_open(&args.link)
+        .set_open(&args.link)
         .set_duration(duration)
         .set_title(&args.title)
         .set_messages(vec![&args.message])
